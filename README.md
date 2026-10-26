@@ -24,6 +24,3 @@ Before asking anyone for help, please read the fucking manual.
 ## Minimum system requirements
 These system requirements are the **bare minimum** to run shlendle:  
 *TBD*
-
-## Priorities
-See [priorities.md](priorities.md)
