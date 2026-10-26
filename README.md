@@ -20,7 +20,3 @@ Before asking anyone for help, please read the fucking manual.
 - [ ] Key Rebinding
 - [ ] Keyboard Repeat Rate
 - [ ] Ninjabrain Bot Integration
-
-## Minimum system requirements
-These system requirements are the **bare minimum** to run shlendle:  
-*TBD*
